@@ -3,7 +3,7 @@ package neo4j
 import (
 	"testing"
 	
-	"github.com/tmc/langchaingo/schemas"
+	"github.com/tmc/langchaingo/schema"
 
 	"github.com/0xDezzy/langchaingo-graphs/graphs"
 )
